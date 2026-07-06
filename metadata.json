@@ -1,0 +1,5 @@
+{
+  "name": "Morse Code Translator",
+  "description": "A professional Morse code encoder and decoder with audio feedback and real-time translation.",
+  "requestFramePermissions": []
+}
